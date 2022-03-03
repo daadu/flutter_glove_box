@@ -20,9 +20,3 @@ dev_dependencies:
   sample_dependency:
     path: test/sample_dependency
   test_api: ^0.4.2
-
-flutter:
-  fonts:
-    - family: Roboto
-      fonts:
-        - asset: packages/golden_toolkit/fonts/Roboto-Regular.ttf
